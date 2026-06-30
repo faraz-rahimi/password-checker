@@ -18,4 +18,4 @@ A simple Password Checker built with HTML, CSS, and JavaScript.
 
 ## Author
 
-Faraz rahimi
+Faraz Rahimi
