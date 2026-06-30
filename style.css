@@ -1,7 +1,10 @@
-:root {
-  --primary: #1a73e8;
-  --dark-blue: #0d3a76;
-  --border: #dadce0;
+:root{
+  --primary:#2563EB;
+  --primary-hover:#1D4ED8;
+  --background:#F8FAFC;
+  --card:#FFFFFF;
+  --text:#1E293B;
+  --border:#CBD5E1;
 }
 
 * {
@@ -16,7 +19,7 @@ body {
   justify-content: center;
   align-items: center;
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #fff;
+  background-color: var(--background);
 }
 
 main {
@@ -27,7 +30,7 @@ main {
 }
 
 h1 {
-  color: var(--dark-blue);
+  color: var(--text);
   margin-bottom: 10px;
 }
 
@@ -61,7 +64,7 @@ h1 {
   top: 18px;
   padding: 0 4px;
   background: #fff;
-  color: #5f6368;
+  color: var(--text);
   font-size: 16px;
   pointer-events: none;
   transition:
@@ -82,7 +85,7 @@ h1 {
   height: 42px;
   border: none;
   border-radius: 6px;
-  background: rgb(255, 154, 21);
+  background: var(--primary);
   color: white;
   font-size: 16px;
   cursor: pointer;
@@ -92,7 +95,7 @@ h1 {
 }
 
 .btn:hover {
-  background: rgb(161, 91, 0);
+  background: var(--primary-hover);
   transform: translateY(-2px);
 }
 
