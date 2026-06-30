@@ -1,21 +1,25 @@
-## Password Checker
+# Password Checker
 
-A simple Password Checker built with HTML, CSS, and JavaScript.
+A simple and responsive Password Checker built with HTML, CSS, and JavaScript.
 
-## Features
+## ✨ Features
 
-* Floating label input
-* Password validation
-* Enter key support
-* Responsive design
-* Success and error messages
+- Validate password input
+- Floating label input
+- Press Enter to submit
+- Responsive layout
+- Success and error messages
 
-## Technologies
+## 🛠️ Technologies
 
-* HTML5
-* CSS3
-* JavaScript (DOM)
+- HTML5
+- CSS3
+- JavaScript (DOM)
 
-## Author
+## 🚀 Live Demo
 
-Faraz Rahimi
+Coming soon...
+
+## 👨‍💻 Author
+
+**Faraz Rahimi**
